@@ -114,5 +114,8 @@ wintry_days = pd.read_sql(query, engine)
 # View summary stats about the temperatures
 print(wintry_days.describe())
 
+
 ###########################         Getting distinct values       ###########################
+
+
 
